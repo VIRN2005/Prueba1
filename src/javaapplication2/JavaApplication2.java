@@ -25,6 +25,10 @@ public class JavaApplication2 {
         }
 
         System.out.println("Me llamo Victor");
+        name();
     }
 
+    public static void name() {
+        System.out.println("Victor Romero");s
+    }
 }
